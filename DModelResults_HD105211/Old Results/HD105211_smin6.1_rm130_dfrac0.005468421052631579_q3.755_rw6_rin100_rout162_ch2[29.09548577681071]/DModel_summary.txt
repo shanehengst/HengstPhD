@@ -1,0 +1,10 @@
+Summary of Fitting SED for HD105211 
+Grain properties: 
+Composition: silicate_d03 
+Blowout size: 1.601 microns 
+Size distribution exponent: 3.755 
+Belt properties:
+Mean Belt Stellar distance: 130.000 au with a Gaussian width of 6.000 
+Inner Edge: 100.000 au and Outer Edge 162.000 
+Initial Disc Mass: 0.0055 M(Earth) Final Disc Mass: 0.0055 M(Earth) 
+Chi^2 value: 29.095 
